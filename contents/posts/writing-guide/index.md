@@ -6,7 +6,7 @@ update: 2021-05-03
 tags:
   - Gatsbyjs
   - writing-guide
-# series: "Getting started your blog with Gatsbyjs"
+series: "Getting started your blog with Gatsbyjs"
 ---
 
 ## 1. Add a post
