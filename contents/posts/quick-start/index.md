@@ -13,31 +13,31 @@ Getting started your blog with Gatsbyjs by following steps below. It's very easy
 
 ## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
+**1. Create a Gatsby site.**
 
-    Use the Gatsby CLI ([install instructions](https://www.gatsbyjs.com/docs/tutorial/part-0/#gatsby-cli)) to create a new site, specifying the blog starter.
+Use the Gatsby CLI ([install instructions](https://www.gatsbyjs.com/docs/tutorial/part-0/#gatsby-cli)) to create a new site, specifying the blog starter.
 
-    ```shell
-    # create a new Gatsby site using the blog starter
-    gatsby new my-blog-starter https://github.com/gatsbyjs/gatsby-starter-blog
-    ```
+```shell
+# create a new Gatsby site using the blog starter
+gatsby new my-blog-starter https://github.com/gatsbyjs/gatsby-starter-blog
+```
 
-1.  **Start developing.**
+**2. Start developing.**
 
-    Navigate into your new site’s directory and start it up.
+Navigate into your new site’s directory and start it up.
 
-    ```shell
-    cd my-blog-starter/
-    gatsby develop
-    ```
+```shell
+cd my-blog-starter/
+gatsby develop
+```
 
-1.  **Open the source code and start editing!**
+**3. Open the source code and start editing!**
 
-    Your site is now running at `http://localhost:8000`!
+Your site is now running at `http://localhost:8000`!
 
-    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby Tutorial](https://www.gatsbyjs.com/docs/tutorial/part-4/#use-graphiql-to-explore-the-data-layer-and-write-graphql-queries)._
+Note: You'll also see a second link: `http://localhost:8000/___graphql`. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby Tutorial](https://www.gatsbyjs.com/docs/tutorial/part-4/#use-graphiql-to-explore-the-data-layer-and-write-graphql-queries).
 
-    Open the `my-blog-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+Open the `my-blog-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
 ## 🚀 Quick start (Gatsby Cloud)
 
@@ -63,7 +63,7 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
     ├── package.json
     └── README.md
 
-1.  `/node_modules`: This directory contains all of the modules of code that your project depends on (npm packages) are automatically installed.
+1. `/node_modules`: This directory contains all of the modules of code that your project depends on (npm packages) are automatically installed.
 
 2.  `/src`: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser) such as your site header or a page template. `src` is a convention for “source code”.
 

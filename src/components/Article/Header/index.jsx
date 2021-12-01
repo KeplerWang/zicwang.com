@@ -1,8 +1,6 @@
 import React from "react"
 import styled from "styled-components"
-
 import { author } from "../../../../config"
-
 import Divider from "components/Divider"
 import TagList from "components/TagList"
 
@@ -16,7 +14,7 @@ const Wrapper = styled.div`
 const ArticleTitle = styled.h1`
   margin-bottom: 25.6px;
   line-height: 1.2;
-  font-size: 44.8px;
+  font-size: 35px;
   font-weight: 700;
   color: ${props => props.theme.colors.text};
   word-break: break-all;

@@ -98,7 +98,7 @@ const Series = ({ header, series }) => {
     <SeriesWrapper>
       <SeriesHeader>
         <Link to={`/series/${_.replace(header, /\s/g, "-")}`}>
-          SERIES: {header}
+          Series: {header}
         </Link>{" "}
         <span>({series.length})</span>
       </SeriesHeader>

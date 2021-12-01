@@ -2,7 +2,7 @@ import styled from "styled-components"
 
 const StyledMarkdown = styled.div`
   & {
-    font-size: 17.6px;
+    font-size: 15px;
     color: ${props => props.theme.colors.text};
     line-height: 1.6;
     overflow: hidden;
@@ -41,27 +41,27 @@ const StyledMarkdown = styled.div`
   & h2 {
     margin-top: 24px;
     margin-bottom: 24px;
-    font-size: 28px;
+    font-size: 20px;
   }
 
   & h3 {
     margin-top: 18px;
     margin-bottom: 18px;
-    font-size: 22.4px;
+    font-size: 18px;
   }
 
   & h4 {
     margin-top: 12px;
     margin-bottom: 12px;
-    font-size: 17.6px;
-  }
-
-  & h5 {
     font-size: 16px;
   }
 
+  & h5 {
+    font-size: 14px;
+  }
+
   & h6 {
-    font-size: 14.4px;
+    font-size: 12px;
   }
 
   & strong {
