@@ -36,7 +36,7 @@ gatsby develop
 
 ### **4. Set up a GitHub repo for your site**
 ```bash
-git remote add origin https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_REPO_NAME.git
+git remote add origin https://github.com/{Your Github Username}/{Your Github Repo Name}.git
 git add .
 git commit -m 'First Commit'
 git branch -M main
@@ -44,6 +44,6 @@ git push -u origin main
 ```
 
 ### **5. Deploy on Gatsby Cloud**
-It's easy to delopy on [Gatsby Cloud](https://www.gatsbyjs.com/dashboard/login) if you upload you repo to Github. Just click the mouse :D.
+It's easy to delopy on [Gatsby Cloud](https://www.gatsbyjs.com/dashboard/login) if you upload your repo to Github. Just click the mouse :D.
 
 ## **Enjoy**
