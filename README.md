@@ -8,7 +8,7 @@ It's built with [Gatsbyjs 4.2](https://www.gatsbyjs.com/) and inspired by [hoodi
 
 ## **What contribution did I offer**
 
-Simply, I just updated the Gatsbyjs plugin versions and dependencies in [`package.json`](https://github.com/KeplerWang/zicwang.com/blob/main/package.json), and fixed some errors by checking [`gatsby-config.js`](https://github.com/KeplerWang/zicwang.com/blob/main/gatsby-config.js) and some JavaScript files due to the updates.
+Simply, I just updated the Gatsbyjs plugin versions(to 4.2) and dependencies in [`package.json`](https://github.com/KeplerWang/zicwang.com/blob/main/package.json), and fixed some errors by checking [`gatsby-config.js`](https://github.com/KeplerWang/zicwang.com/blob/main/gatsby-config.js) and some JavaScript files due to the updates.
 
 ## **How to reproduce this blog**
 
