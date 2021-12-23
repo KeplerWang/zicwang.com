@@ -24,20 +24,20 @@ npm gatsby new {Your Gatsby Site Name} https://github.com/KeplerWang/zicwang.com
 ```
 If it doesn't work like throwing errors, you can try this.
 ```bash
-git clone https://github.com/KeplerWang/zicwang.com
-cd {Git Repo Folder}
+git clone https://github.com/KeplerWang/zicwang.com {Your Gatsby Site Name}
+cd {Your Gatsby Site Name}
 npm install --legacy-peer-deps
 ```
 
 ### **3. Start sever and preview**
 ```bash
-cd {Git Repo Folder} # If you're already there, pass this line.
+cd {Your Gatsby Site Name} # If you're already there, pass this line.
 gatsby develop
 ```
 
 ### **4. Set up a GitHub repo for your site**
 ```bash
-git remote add origin https://github.com/{Your Github Username}/{Your Git Repo Folder}.git
+git remote add origin https://github.com/{Your Github Username}/{Your Gatsby Site Name}.git
 git add .
 git commit -m 'First Commit'
 git branch -M main
